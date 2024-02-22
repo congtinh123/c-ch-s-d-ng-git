@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+form{
+    background-color: white;
+    width: 400px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+}
+p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tht{
+    padding-bottom: 40px;
+}
+input{
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid black;
+    width: 250px;
+    gap: 10px;
+
+}
+button{
+    padding: 10px 40px 10px 40px;
+    border-radius: 10px;
+    background-color: #67cc6f;
+    color: white;
+    border: 0px;
+}
