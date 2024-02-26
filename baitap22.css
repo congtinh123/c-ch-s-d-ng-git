@@ -1,0 +1,227 @@
+.div1 {
+    display: flex;
+    gap: 100px;
+    margin-top: 20px;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.div2 {
+    display: flex;
+    gap: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: #756969;
+}
+
+.btsignup {
+    font-size: 15px;
+    border-radius: 15px;
+    border-color: rgba(245, 56, 85, 1);
+    padding: 7px 30px 7px 30px;
+    background-color: white;
+    color: red;
+
+}
+
+.divicon {
+    color: red;
+    font-size: 35px;
+}
+
+.div4 {
+    color: black;
+    font-size: 16px;
+
+    margin-left: 10px;
+}
+
+.img1 {
+    display: flex;
+    margin-top: 100px;
+}
+
+.btgs {
+    padding: 10px 45px 10px 45px;
+    border-radius: 10px;
+    background-color: rgba(245, 56, 56, 1);
+    border: none;
+    color: white;
+    margin-top: 40px;
+}
+
+.space-text {
+    margin-left: 100px;
+}
+
+.space-img {
+    margin-left: 200px;
+}
+
+.user {
+    display: flex;
+}
+
+.icon-user {
+    font-size: 15px;
+    background-color:
+        rgba(255, 236, 236, 1);
+    color: rgba(245, 56, 56, 1);
+    padding: 15px 15px 15px 15px;
+    border-radius: 100%;
+}
+
+.icon-setting {
+    display: flex;
+    gap: 300px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.ic-check {
+    background-color: rgba(47, 171, 115, 1);
+    color: white;
+    border-radius: 100%;
+}
+
+.setting-d3 {
+    display: flex;
+    gap: 200px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.p-setting {
+    margin-top: 100px;
+}
+
+.text-decore {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.icon-check {
+    color: rgba(47, 171, 115, 1);
+    margin-right: 25px;
+}
+
+.bt-select {
+    padding: 10px 60px 10px 60px;
+    border-radius: 10px;
+    font-size: 15px;
+    border-color: rgba(245, 56, 56, 1);
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(245, 56, 56, 1);
+}
+
+.box-1 {
+    width: 330px;
+    height: 760px;
+    top: 1776.55px;
+    left: 175px;
+    border: solid 2px rgba(221, 221, 221, 1);
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.bt-select2 {
+    padding: 12px 60px 12px 60px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: rgba(245, 56, 56, 1);
+    color: white;
+    border: none;
+}
+
+.box-2 {
+    display: flex;
+    margin-top: 100px;
+    gap: 50px;
+    margin-left: 300px;
+}
+
+.text-world {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.img-world {
+    margin-top: 150px;
+    margin-left: 380px;
+}
+
+.img-app {
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.text-10 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.img-avatar {
+    border-radius: 100%;
+}
+
+.boder-1 {
+    border: solid 2px rgba(221, 221, 221, 1);
+    width: 400px;
+    height: 230px;
+    top: 4049.25px;
+    left: 150px;
+    border-radius: 10px;
+}
+
+.img-comment {
+    display: flex;
+    gap: 50px;
+    margin-top: 80px;
+    margin-left: 250px;
+
+}
+
+.icon-arrow {
+    border: solid 2px rgba(245, 56, 56, 1);
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    color: red;
+    background-color: white;
+    font-size: 40px;
+}
+
+.setting-flex {
+    display: flex;
+    gap: 70%;
+    margin-top: 90px;
+    margin-left: 200px;
+}
+
+.bt-sub {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(245, 56, 56, 1);
+    color: white;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.flex-sub {
+    display: flex;
+    margin-top: 60px;
+    gap: 400px;
+    margin-left: 500px;
+}
+
+.icon-3 {
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(245, 56, 56, 1);
+    width: 33.6px;
+    height: 33.6px;
+}
