@@ -1,14 +1,25 @@
 .div1 {
     display: flex;
-    gap: 100px;
-    margin-top: 20px;
-    justify-content: space-around;
-    align-items: baseline;
+    margin-top: 10px;
+    margin-left: 100px;
+
 }
 
 .div2 {
     display: flex;
-    gap: 100px;
+    gap: 150px;
+    margin-left: 250px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.div-10 {
+    display: flex;
+}
+
+.div-11 {
+    margin-left: 250px;
+
 }
 
 a {
@@ -17,12 +28,13 @@ a {
 }
 
 .btsignup {
-    font-size: 15px;
-    border-radius: 15px;
+
+    border-radius: 20px;
     border-color: rgba(245, 56, 85, 1);
-    padding: 7px 30px 7px 30px;
+    padding: 13px 50px 13px 50px;
     background-color: white;
     color: red;
+    font-size: 20px;
 
 }
 
@@ -33,27 +45,29 @@ a {
 
 .div4 {
     color: black;
-    font-size: 16px;
-
+    font-size: 25px;
     margin-left: 10px;
+    margin-top: 5px;
 }
 
 .img1 {
     display: flex;
     margin-top: 100px;
+    justify-content: space-evenly
 }
 
 .btgs {
-    padding: 10px 45px 10px 45px;
+    padding: 20px 80px 20px 80px;
     border-radius: 10px;
     background-color: rgba(245, 56, 56, 1);
     border: none;
     color: white;
     margin-top: 40px;
+    font-size: 20px;
 }
 
 .space-text {
-    margin-left: 100px;
+    font-size: 25px;
 }
 
 .space-img {
@@ -65,19 +79,20 @@ a {
 }
 
 .icon-user {
-    font-size: 15px;
+    font-size: 25px;
     background-color:
         rgba(255, 236, 236, 1);
     color: rgba(245, 56, 56, 1);
-    padding: 15px 15px 15px 15px;
+    padding: 25px 25px 25px 25px;
     border-radius: 100%;
 }
 
 .icon-setting {
     display: flex;
-    gap: 300px;
-    margin-left: 300px;
-    margin-top: 50px;
+    justify-content: space-evenly;
+    gap: 200px;
+    margin-top: 200px;
+
 }
 
 .ic-check {
@@ -88,18 +103,18 @@ a {
 
 .setting-d3 {
     display: flex;
-    gap: 200px;
-    margin-left: 200px;
-    margin-top: 100px;
+    justify-content: space-around;
 }
 
 .p-setting {
     margin-top: 100px;
+    font-size: 20px;
 }
 
 .text-decore {
     text-align: center;
     margin-top: 100px;
+    font-size: 20px;
 }
 
 .icon-check {
@@ -138,19 +153,23 @@ a {
 
 .box-2 {
     display: flex;
+    gap: 100px;
     margin-top: 100px;
-    gap: 50px;
-    margin-left: 300px;
+    margin-left: 400px;
+
 }
 
 .text-world {
     text-align: center;
     margin-top: 150px;
+    font-size: 20px;
 }
 
 .img-world {
+    width: 1060px;
+    height: 537.77px;
     margin-top: 150px;
-    margin-left: 380px;
+    margin-left: 450px;
 }
 
 .img-app {
@@ -161,6 +180,7 @@ a {
 .text-10 {
     text-align: center;
     margin-top: 40px;
+    font-size: 20px;
 }
 
 .img-avatar {
@@ -171,16 +191,14 @@ a {
     border: solid 2px rgba(221, 221, 221, 1);
     width: 400px;
     height: 230px;
-    top: 4049.25px;
-    left: 150px;
     border-radius: 10px;
 }
 
 .img-comment {
     display: flex;
-    gap: 50px;
-    margin-top: 80px;
-    margin-left: 250px;
+    gap: 100px;
+    margin-top: 100px;
+    margin-left: 300px;
 
 }
 
@@ -189,21 +207,41 @@ a {
     width: 60px;
     height: 60px;
     border-radius: 100%;
+    padding-left: 30px;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
     color: red;
-    background-color: white;
-    font-size: 40px;
+}
+
+.icon-right {
+    border: solid 2px rgba(245, 56, 56, 1);
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    padding-left: 30px;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    background-color: rgba(245, 56, 56, 1);
+    color: white;
+}
+
+.icon-gap {
+    display: flex;
+    gap: 25px;
 }
 
 .setting-flex {
     display: flex;
-    gap: 70%;
-    margin-top: 90px;
+    gap: 60%;
+    margin-top: 100px;
     margin-left: 200px;
 }
 
 .bt-sub {
-    width: 200px;
-    height: 50px;
+    width: 250px;
+    height: 60px;
     border-radius: 10px;
     border: none;
     background-color: rgba(245, 56, 56, 1);
@@ -217,11 +255,42 @@ a {
     margin-top: 60px;
     gap: 400px;
     margin-left: 500px;
+    font-size: 25px;
 }
 
+
 .icon-3 {
-    background-color: rgba(255, 255, 255, 1);
-    color: rgba(245, 56, 56, 1);
+    display: flex;
+    gap: 20px;
+
+
+}
+
+.icon-radius {
     width: 33.6px;
     height: 33.6px;
+    top: 4953.58px;
+    left: 203.6px;
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(245, 56, 56, 1);
+    border: solid 2px rgba(255, 255, 255, 1);
+    font-size: 25px;
+}
+
+.text-colum {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.text-align2 {
+    display: flex;
+    gap: 100px;
+    margin-left: 250px;
+
+}
+
+.text-align3 {
+    display: flex;
+    margin-top: 50px;
 }
