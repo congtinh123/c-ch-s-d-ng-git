@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.bg-40 {
+    background-image: url(anh/bg4042.png);
+    background-color: black;
+    width: 1441px;
+    height: 1024px;
+    background-repeat: no-repeat;
+
+}
+
+.logo404 {
+    padding-top: 56px;
+    margin-left: 75px;
+    width: 197px;
+    height: 83.8px;
+}
+
+.ul-gp {
+    color: rgba(245, 245, 245, 1);
+    list-style: none;
+    display: flex;
+    gap: 57px;
+    margin-top: 79px;
+    margin-left: 636px;
+}
+
+.flex-top {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(245, 245, 245, 1);
+    font-size: 500px;
+    font-weight: 500;
+
+}
+
+button {
+    background-color: rgba(114, 139, 173, 1);
+    width: 444px;
+    height: 58px;
+    border-radius: 42px;
+    font-size: 20px;
+    color: rgba(245, 245, 245, 1);
+    margin-left: 504px;
+    margin-top: 42px;
+}
+
+h3 {
+    text-align: center;
+    color: rgba(245, 245, 245, 1);
+    font-size: 90px;
+    font-weight: 500;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    color: rgba(255, 219, 187, 1);
+    margin-top: 37px;
+}
